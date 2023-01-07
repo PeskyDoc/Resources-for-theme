@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "PeskyDoc#3393",
+        "name": "testing",
+        "version": "69420",
+        "updater": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/testing.json"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "ginto_bold": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "ginto_medium": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "ginto_regular": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "roboto_medium_numbers": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "sourcecodepro_semibold": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "whitney_bold": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "whitney_medium": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF",
+        "whitney_semibold": "https:\/\/raw.githubusercontent.com\/PeskyDoc\/Resources-for-theme\/main\/COMIC.TTF"
+    },
